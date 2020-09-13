@@ -1,1 +1,30 @@
-/* Commenting so it is not empty */
+* {
+    font-family: 'Lucida Grande', sans-serif;
+    color: #fcfcfc;
+    background-color: #000000;
+}
+
+head, footer {
+    background-color: #000000;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-shadow: 5px 5px 2px #808080;
+}
+
+p {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 525px;
+}
