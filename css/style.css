@@ -1,11 +1,11 @@
 * {
     font-family: 'Lucida Grande', sans-serif;
-    color: #fcfcfc;
-    background-color: #000000;
 }
 
-head, footer {
+body {
+    color: #fcfcfc;
     background-color: #000000;
+    font-family: 'Lucida Grande', sans-serif;
 }
 
 h1 {
