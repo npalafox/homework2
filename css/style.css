@@ -28,3 +28,40 @@ img {
     margin: auto;
     max-width: 525px;
 }
+
+div {
+    min-height: 150px;
+    padding: 25px;
+}
+
+#red {
+    background-color:#bc1515;
+    text-align: right;
+}
+
+#blue {
+    background-color: #0206ed;
+    text-align: left;
+}
+
+#yellow {
+    background-color:#fffc32;
+    text-align: right;
+    color: black;
+}
+
+#yellow h2 {
+    text-shadow: 5px 5px 2px #808080;
+}
+
+#green {
+    background-color:#0c6f12;
+    text-align: left;
+}
+
+footer p {
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
