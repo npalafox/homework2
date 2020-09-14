@@ -3,7 +3,7 @@
 }
 
 body {
-    color: #fcfcfc;
+    color: #ffffff;
     background-color: #000000;
     font-family: 'Lucida Grande', sans-serif;
 }
@@ -51,7 +51,7 @@ div {
 }
 
 #yellow h2 {
-    text-shadow: 5px 5px 2px #808080;
+    text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green {
@@ -63,5 +63,5 @@ footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
-
+    padding-top: 0px;
 }
