@@ -18,6 +18,13 @@ h2 {
     text-shadow: 5px 5px 2px #808080;
 }
 
+footer p {
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+}
+
 p {
     font-size: 24px;
     padding-top: 20px;
@@ -57,11 +64,4 @@ div {
 #green {
     background-color:#008000;
     text-align: left;
-}
-
-footer p {
-    text-align: right;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding-top: 0px;
 }
