@@ -35,17 +35,17 @@ div {
 }
 
 #red {
-    background-color:#bc1515;
+    background-color: #FF0000;
     text-align: right;
 }
 
 #blue {
-    background-color: #0206ed;
+    background-color: #0000FF;
     text-align: left;
 }
 
 #yellow {
-    background-color:#fffc32;
+    background-color: #FFFF00;
     text-align: right;
     color: black;
 }
@@ -55,7 +55,7 @@ div {
 }
 
 #green {
-    background-color:#0c6f12;
+    background-color:#008000;
     text-align: left;
 }
 
